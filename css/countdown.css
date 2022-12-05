@@ -1,0 +1,25 @@
+ul#nedräkning {
+	list-style: none;
+	margin: 30px 0;
+	padding: 0;
+	display: block;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+}
+ul#nedräkning li {
+	display: inline-block;
+}
+ul#nedräkning li span {
+	font-size: 30px;
+	font-weight: 500;
+	line-height: 30px;
+}
+ul#nedräkning li.separator {
+	font-size: 30px;
+	line-height: 25px;
+	vertical-align: top;
+}
+ul#nedräkning li p {
+	color: #fff;
+	font-size: 16px;
+}
