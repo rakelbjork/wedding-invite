@@ -84,11 +84,16 @@ html {
 
 @media (max-width: 800px) {
   .hero .hero-foot {
-    height: 100%;
-    width: 100%;
     display: none;
   }
 }
+
+@media (max-width: 800px) {
+  body {
+      height:100vh;
+  }
+}
+
 
 .hero .hero-foot .hero-foot--wrapper {
   margin: 7px auto;
