@@ -82,8 +82,9 @@ html {
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.082);
 }
 
-@media (max-width: 599px) {
+@media (max-width: 800px) {
   .hero .hero-foot {
+    background-image: url('../image/bild1.JPG');
     display: none;
   }
 }
@@ -157,7 +158,7 @@ html {
 
 }
 
-@media (max-width: 599px) {
+@media (max-width: 800px) {
   .main-content .section-dark.resume {
     padding-top: 75px;
   }
@@ -190,7 +191,7 @@ html {
   padding: 80px 40px; 
 }
 
-@media (max-width: 599px) {
+@media (max-width: 800px) {
   .main-content .section-dark.foto-foto {
     padding: 75px 20px;
   }
@@ -237,7 +238,7 @@ iframe {
   font-size: 1.2rem;
 }
 
-@media (max-width: 599px) {
+@media (max-width: 800px) {
   .main-content .section-light.regular-section .about-links {
     text-align: center;
   }
@@ -249,7 +250,7 @@ iframe {
   box-shadow: 0 5px 20px rgba(14, 25, 80, 0.3);
 }
 
-@media (max-width: 599px) {
+@media (max-width: 800px) {
   .main-content .section-light.regular-section .right-image img {
     margin: auto;
   }
@@ -259,7 +260,7 @@ iframe {
   padding: 100px;
 }
 
-@media (max-width: 599px) {
+@media (max-width: 800px) {
   .main-content .section-light.skills {
     padding: 50px 20px 40px 20px;
     padding-bottom: 20px;
@@ -284,7 +285,7 @@ iframe {
   font-family: 'Raleway', sans-serif;
 }
 
-@media (max-width: 599px) {
+@media (max-width: 800px) {
   .main-content .section-light.contact {
     padding: 80px 40px;
   }
