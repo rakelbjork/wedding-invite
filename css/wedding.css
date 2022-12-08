@@ -84,9 +84,9 @@ html {
 
 @media (max-width: 800px) {
   .hero .hero-foot {
-    background-image: url('../image/bild1.JPG');
-    background-attachment: fixed
-    /*display: none;*/
+    height: 100%;
+    width: 100%;
+    display: none;
   }
 }
 
