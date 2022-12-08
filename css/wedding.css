@@ -84,7 +84,7 @@ html {
 
 @media (max-width: 800px) {
   .hero .hero-foot {
-    background-image: url('../image/wed3.png');
+    
     display: none;
   }
 }
