@@ -15,6 +15,12 @@ html {
   min-height: 100%;
 }
 
+@media (max-width: 800px) {
+  html, body {
+  overflow-x: hidden;
+  }
+}
+
 .header-wrapper {
   padding-bottom: 30px;
 }
