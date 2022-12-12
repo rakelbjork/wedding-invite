@@ -84,14 +84,13 @@ html {
 
 @media (max-width: 800px) {
   .hero {
-    background: url('../image/wed3.png') repeat-x;
+    background-image: url('../image/wed3.png') repeat-x;
     background-attachment: fixed;
-  background-size: cover;
-  background-size: cover;
-  color: white;
-  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
-  font-family: 'Raleway', sans-serif;
-  background: linear-gradient(rgba(248, 130, 19, 0.197), rgba(241, 157, 60, 0.295)), rgba(0, 0, 0, 0.55) url("../image/wed3.png") no-repeat;
+    background-size: cover;
+    color: white;
+    box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    font-family: 'Raleway', sans-serif;
+    background: linear-gradient(rgba(248, 130, 19, 0.197), rgba(241, 157, 60, 0.295)), rgba(0, 0, 0, 0.55) url("../image/wed3.png") no-repeat;
   }
 }
 
