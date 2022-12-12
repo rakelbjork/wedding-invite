@@ -84,7 +84,7 @@ html {
 
 @media (max-width: 800px) {
   .hero {
-    background-image: url('../image/wed3.png') repeat-x;
+    background-image: url('../image/wed3.png') repeat;
     background-attachment: fixed;
     background-size: cover;
     color: white;
