@@ -84,12 +84,13 @@ html {
 
 @media (max-width: 800px) {
   .hero {
-    background-image: url('../image/wed3.png') repeat;
+    background-image: url('../image/wed1.png') repeat;
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
-    background: linear-gradient(rgba(248, 130, 19, 0.197), rgba(241, 157, 60, 0.295)), rgba(0, 0, 0, 0.55) url("../image/wed3.png") no-repeat;
+    block-size: auto;
+    background: linear-gradient(rgba(248, 130, 19, 0.197), rgba(241, 157, 60, 0.295)), rgba(0, 0, 0, 0.55) url("../image/wed1.png") no-repeat;
   }
 }
 
