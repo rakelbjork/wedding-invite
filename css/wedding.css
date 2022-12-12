@@ -85,7 +85,8 @@ html {
 @media (max-width: 800px) {
   .hero .hero-foot {
     background: url('../image/wed3.png') repeat-x;
-    
+    background-attachment: fixed;
+  background-size: cover;
   }
 }
 
